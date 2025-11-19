@@ -9,14 +9,14 @@
 ---
 
 ### 👨‍💻 About Me  
-- 👋 Hi, I'm **@auladwd**  
-- 🔭 I'm currently working on **ReactJS, NextJS, Typescript, Redux & frontend development**  
-- 🧩 Using **NodeJS, ExpressJS, MongoDB, Mongoose, PostgreSQL** for backend  
-- 📱 Currently learning **React Native, GraphQL, Docker & AWS**  
+- 👋 Hi, I'm **Md. Aulad Hossen**  
+- 🔭 I'm currently working on **ReactJS, ExpressJS, Typescript, Redux & frontend development**  
+- 🧩 Using **NodeJS, ExpressJS, MongoDB, PostgreSQL** for backend  
+- 📱 Currently learning **React, Docker**  
 - 📝 I write articles regularly on **LinkedIn**  
-- 💼 Explore my work: [Portfolio](https://touhidcodes.vercel.app) · [Resume](https://touhidcodes.vercel.app)  
-- 📩 Reach me anytime at: **touhidcodes@gmail.com**  
-- 🔗 Follow me on: [LinkedIn](https://linkedin.com/in/touhid-zaman) · [Instagram](https://instagram.com/mnhitox)  
+- 💼 Explore my work: [Portfolio](https://auladhossen.com/) · [Resume]()  
+- 📩 Reach me anytime at: **auladinfo@gmail.com**  
+- 🔗 Follow me on: [LinkedIn](https://www.linkedin.com/in/md-aulad-hossen-a9b56a28a/) · [Facebook](https://www.facebook.com/auladwd)  
 
 ---
 
