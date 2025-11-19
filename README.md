@@ -1,33 +1,108 @@
-![Web Design & Developer](https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/332915681_5904762342906509_5764945269974140827_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=GDHEKKPtz04AX-PD0Sg&_nc_ht=scontent.fdac142-1.fna&oh=00_AfAR_qWwBqfuki6EHQcNKPGL4i1zsm6i8-vioIInllVGFQ&oe=63FDCD3A)
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://github.com/touhidcodes/touhidcodes/blob/main/banner.png" width="100%" />
+</p>
 
-### Hi there 👋, I'm Md. Aulad Hossen
-#### Web Design & Developer
+<h1 align="center">Hi 👋, I'm Touhidur Zaman</h1>
+<h3 align="center">JavaScript Enthusiast | Full Stack Developer</h3>
 
+---
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript.
+### 👨‍💻 About Me  
+- 👋 Hi, I'm **@Touhidcodes**  
+- 🔭 I'm currently working on **ReactJS, NextJS, Typescript, Redux & frontend development**  
+- 🧩 Using **NodeJS, ExpressJS, MongoDB, Mongoose, PostgreSQL** for backend  
+- 📱 Currently learning **React Native, GraphQL, Docker & AWS**  
+- 📝 I write articles regularly on **LinkedIn**  
+- 💼 Explore my work: [Portfolio](https://touhidcodes.vercel.app) · [Resume](https://touhidcodes.vercel.app)  
+- 📩 Reach me anytime at: **touhidcodes@gmail.com**  
+- 🔗 Follow me on: [LinkedIn](https://linkedin.com/in/touhid-zaman) · [Instagram](https://instagram.com/mnhitox)  
 
-Skills: jQuery / REACT / JS / CSS / HTML
+---
 
-- 🔭 I’m currently working on Election Commission Secretariat, Bangladesh 
-- 🌱 I’m currently learning JavaScripte 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Design & Development 
+## 🌐 Follow Me on Socials
+<p align="left">
+  <a href="https://linkedin.com/in/touhid-zaman">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/mnhitox">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:touhidcodes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://stackoverflow.com">
+    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+</p>
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/auladwd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/auladwd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCcX02K9C_VyLO5hKUO7wFBg)  
+# 🛠️ Technology Stack
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## 🧩 Languages
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=auladwd)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auladwd)](https://github.com/anuraghazra/github-readme-stats)
+## 🎨 CSS Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=auladwd&show_icons=true&count_private=true)  
+---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=auladwd)  
+## ⚛️ JavaScript Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/auladwd)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=auladwd)  
+## 🗄️ Database & Models
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+</p>
 
-![Profile views](https://gpvc.arturio.dev/auladwd)  
+---
+
+## ☁️ Deployment Platforms
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+---
+
+## 🎨 Design & Graphics
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=touhidcodes&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  ⭐️ Thanks for visiting my profile!  
+</p>
