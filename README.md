@@ -3,13 +3,13 @@
   <img src="https://github.com/touhidcodes/touhidcodes/blob/main/banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Touhidur Zaman</h1>
-<h3 align="center">JavaScript Enthusiast | Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Md. Aulad Hossen</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me  
-- 👋 Hi, I'm **@Touhidcodes**  
+- 👋 Hi, I'm **@auladwd**  
 - 🔭 I'm currently working on **ReactJS, NextJS, Typescript, Redux & frontend development**  
 - 🧩 Using **NodeJS, ExpressJS, MongoDB, Mongoose, PostgreSQL** for backend  
 - 📱 Currently learning **React Native, GraphQL, Docker & AWS**  
