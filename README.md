@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://github.com/auladwd/Profile-Banner-image/blob/main/Github%20Cover%20Image.jpg" width="100%" />
+  <img src="https://github.com/auladwd/Profile-Banner-image/blob/main/Github%20Cover%20Image%20(1).jpg" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Aulad Hossen</h1>
