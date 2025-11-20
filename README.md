@@ -8,15 +8,15 @@
 
 ---
 
-### 👨‍💻 About Me  
-- 👋 Hi, I'm **Md. Aulad Hossen**  
-- 🔭 I'm currently working on **ReactJS, ExpressJS, Typescript, Redux & frontend development**  
-- 🧩 Using **NodeJS, ExpressJS, MongoDB, PostgreSQL** for backend  
-- 📱 Currently learning **React, Docker**  
-- 📝 I write articles regularly on **LinkedIn**  
-- 💼 Explore my work: [Portfolio](https://auladhossen.com/) · [Resume]()  
-- 📩 Reach me anytime at: **auladinfo@gmail.com**  
-- 🔗 Follow me on: [LinkedIn](https://www.linkedin.com/in/md-aulad-hossen-a9b56a28a/) · [Facebook](https://www.facebook.com/auladwd)  
+## 👨‍💻 About Me  
+👋 Hi, I'm **Md. Aulad Hossen**  
+🔭 I'm currently working on **ReactJS, Tailwind CSS, NodeJS, ExpressJS & MERN Stack Development**  
+🧩 I build full-stack applications using **NodeJS, ExpressJS & MongoDB**  
+📱 Currently learning **Next.js, JWT Authentication & API Security**  
+📝 I practice coding, build projects, and explore new technologies every day  
+💼 Explore my work: *Portfolio · Resume*  
+📩 Reach me anytime at: **auladinfo@gmail.com**  
+🔗 Follow me on: *LinkedIn · Facebook*
 
 ---
 
