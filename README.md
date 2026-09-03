@@ -1,4 +1,4 @@
-<!-- Banner -->
+﻿<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/auladwd/auladwd/main/assets/banner.jpg" width="100%" alt="Md. Aulad Hossen - DevOps Engineer Banner"/>
 </p>
