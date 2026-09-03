@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Md.%20Aulad%20Hossen&fontSize=50&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20MERN%20Developer&descAlignY=55&descAlign=50" width="100%" alt="Md. Aulad Hossen - DevOps Engineer Banner"/>
+  <img src="https://raw.githubusercontent.com/auladwd/auladwd/main/assets/banner.jpg" width="100%" alt="Md. Aulad Hossen - DevOps Engineer Banner"/>
 </p>
 
 <h1 align="center">
