@@ -1,6 +1,6 @@
-﻿<!-- Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/auladwd/auladwd/main/assets/banner.jpg" width="100%" alt="Md. Aulad Hossen - DevOps Engineer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Md.%20Aulad%20Hossen&fontSize=50&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20MERN%20Developer&descAlignY=55&descAlign=50" width="100%" alt="Md. Aulad Hossen - DevOps Engineer Banner"/>
 </p>
 
 <h1 align="center">
@@ -172,12 +172,12 @@ philosophy : "Automate Everything. Ship Faster. Fail Safely."
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=auladwd&show_icons=true&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&icon_color=7C3AED&hide_border=false" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=auladwd&theme=tokyonight&border=00D9FF&ring=7C3AED&fire=00FFB3&currStreakLabel=00D9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=auladwd&show_icons=true&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&icon_color=7C3AED&hide_border=false&cache_seconds=1800" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=auladwd&theme=tokyonight&border=00D9FF&ring=7C3AED&fire=00FFB3&currStreakLabel=00D9FF" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auladwd&layout=compact&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auladwd&layout=compact&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&hide_border=false&cache_seconds=1800" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=auladwd&bg_color=0d1b2a&color=00D9FF&line=7C3AED&point=00FFB3&area=true&hide_border=false" />
 </p>
 
