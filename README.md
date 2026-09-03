@@ -186,7 +186,9 @@ philosophy : "Automate Everything. Ship Faster. Fail Safely."
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=auladwd&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=false" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophies.demolab.com/?username=auladwd&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=false" />
+  </a>
 </p>
 
 ---
