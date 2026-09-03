@@ -172,13 +172,13 @@ philosophy : "Automate Everything. Ship Faster. Fail Safely."
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=auladwd&show_icons=true&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&icon_color=7C3AED&hide_border=false&cache_seconds=1800" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=auladwd&theme=tokyonight&border=00D9FF&ring=7C3AED&fire=00FFB3&currStreakLabel=00D9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=auladwd&show_icons=true&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&icon_color=7C3AED&hide_border=false&v=2" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=auladwd&theme=tokyonight&border=00D9FF&ring=7C3AED&fire=00FFB3&currStreakLabel=00D9FF&v=2" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auladwd&layout=compact&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&hide_border=false&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=auladwd&bg_color=0d1b2a&color=00D9FF&line=7C3AED&point=00FFB3&area=true&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auladwd&layout=compact&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&hide_border=false&v=2" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=auladwd&bg_color=0d1b2a&color=00D9FF&line=7C3AED&point=00FFB3&area=true&hide_border=false&v=2" />
 </p>
 
 ---
@@ -186,7 +186,7 @@ philosophy : "Automate Everything. Ship Faster. Fail Safely."
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=auladwd&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=auladwd&theme=tokyonight&column=7&margin-w=10&margin-h=10&v=2" />
 </p>
 
 ---
